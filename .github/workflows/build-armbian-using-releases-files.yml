@@ -192,6 +192,7 @@ on:
           - zcube1-max
           - zk-r39a
           - zysj
+          - seeve-rk3399
       armbian_kernel:
         description: "Select kernel version."
         required: false
